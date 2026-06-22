@@ -1,2 +1,2 @@
-# Meme-Kanseri-Te-hisi-Lojistik-Regresyon-Rastgele-Orman-ve-SVM-ile-Model-Kar-la-t-rmas-
+# breast-cancer-diagnosis-ml-comparison
 Meme Kanseri veri seti üzerinde Lojistik Regresyon, Rastgele Orman ve SVM modellerinin karşılaştırmalı analizi.
